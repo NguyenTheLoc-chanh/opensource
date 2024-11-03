@@ -2,7 +2,7 @@
   "accentColor": "{{appsmith.theme.colors.primaryColor}}",
   "animateLoading": true,
   "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
-  "bottomRow": 47,
+  "bottomRow": 40,
   "boxShadow": "none",
   "defaultOptionValue": "",
   "dynamicBindingPathList": [
@@ -54,7 +54,7 @@
   "rightColumn": 59,
   "serverSideFiltering": false,
   "sourceData": "{{Find_tblClassSchehules1.data.map( (obj) =>{ return  {'label': obj.idClass, 'value': obj.idBeacon } })}}",
-  "topRow": 40,
+  "topRow": 33,
   "type": "SELECT_WIDGET",
   "version": 1,
   "widgetId": "wuljhb58o5",

@@ -11,7 +11,7 @@
       "navStyle": "sidebar",
       "orientation": "side",
       "position": "static",
-      "showNavbar": false,
+      "showNavbar": true,
       "showSignIn": true
     },
     "themeSetting": {
@@ -25,6 +25,10 @@
   "color": "#F5D1D1",
   "evaluationVersion": 2,
   "pages": [
+    {
+      "id": "Report",
+      "isDefault": false
+    },
     {
       "id": "Register",
       "isDefault": false
@@ -53,7 +57,7 @@
       "navStyle": "sidebar",
       "orientation": "side",
       "position": "static",
-      "showNavbar": false,
+      "showNavbar": true,
       "showSignIn": true
     },
     "themeSetting": {
