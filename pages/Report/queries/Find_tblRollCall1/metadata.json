@@ -40,8 +40,8 @@
         "sortBy": {
           "data": [
             {
-              "column": "{{Table1.sortOrder.column}}",
-              "order": "Table1.sortOrder.order !== \"desc\""
+              "column": "",
+              "order": "Ascending"
             }
           ]
         },
@@ -72,9 +72,6 @@
     "dynamicBindingPathList": [
       {
         "key": "formData.where.data"
-      },
-      {
-        "key": "formData.sortBy.data"
       },
       {
         "key": "formData.pagination.data"
